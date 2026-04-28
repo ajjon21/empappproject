@@ -35,7 +35,7 @@ jobs:
           script: |
             set -e
 
-            APP_DIR="/home/sfl5-node/htdocs/sfl5n.ncgrp.xyz/week08"
+            APP_DIR="/home/s2134588-node/htdocs/s2134588n.ncgrp.xyz/empapp"
             CONTAINER_NAME="s112233w8-app"
             IMAGE_NAME="s112233w8-app:latest"
 
