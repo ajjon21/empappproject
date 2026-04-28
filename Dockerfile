@@ -5,5 +5,5 @@ RUN npm install
 COPY . .
 RUN chown -R node:node /app
 USER node
-EXPOSE 80
+EXPOSE 3036
 CMD ["node","server.js"]
